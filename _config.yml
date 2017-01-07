@@ -5,6 +5,13 @@ theme: jekyll-theme-leap-day
 # Name of website
 title: QGIS Norge Brukergruppe
 
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: QGIS Norge
