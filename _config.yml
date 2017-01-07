@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Om oss"
+  Om oss: "omoss"
   Resources:
     - QGIS: "http://qgis.org"
 
