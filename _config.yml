@@ -25,7 +25,7 @@ description: QGIS Norge Brukergruppe
 # List of links in the navigation bar
 navbar-links:
   Om oss: "omoss"
-  Nyheter: "nyheter"
+  Nyheter: "nyheter.html"
   Aktiviteter: "aktiviteter"
   Utviklingsarbeid: "utviklingsarbeid"
   Bli med: "blimed"
