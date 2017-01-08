@@ -31,16 +31,20 @@ Foreningens navn er «QGIS Norge», ved bruk på engelsk oversatt til «QGIS Nor
 3. Medlemmene betaler en årlig kontingent som fastsettes av årsmøtet.
 4. Styret har ansvaret for å føre medlemslisten og påse at denne er korrekt.
 5. Medlemskap avsluttes på et av følgende måter:
-- Ved at medlemmet melder seg ut, med skriftlig beskjed til styret.
-- Ved at medlemmet lar være å betale medlemskontingenten selv etter to skriftlige påminnelser.
+  - Ved at medlemmet melder seg ut, med skriftlig beskjed til styret.
+  - Ved at medlemmet lar være å betale medlemskontingenten selv etter to skriftlige påminnelser.
+
 # 4. Foreningens styre
+
 1. Styret skal bestå av fem personer, der en er leder og en er nestleder. Man skal tilstrebe et representativt styre med tanke på bakgrunn, kjønn og alder. Ingen enkeltorganisasjon kan ha mer enn en representant i styret.
 2. Styrets oppgave er foreningens daglige drift, samt planlegging og gjennomføring av aktiviteter og innhenting av sponsormidler.
 3. Et av styrets medlemmer representerer QGIS Norge i avstemninger avholdt av QGIS.org. Denne personen utpekes av styret.
 4. Styremedlemmer velges hvert år på det ordinære årsmøtet, for to år av gangen. Styret konstituerer seg selv. På ekstraordinære årsmøter kan det avholdes styrevalg dersom styret eller minst en halvpart av de fremmøtte medlemmene ønsker det. Det er ingen øvre grense for gjenvalg til styret.
 5. Styret er beslutningsdyktig når leder eller nestleder og minst to andre medlemmer deltar.
 6. Alle styremøter skal ha et skriftlig referat som kan gjennomgås av foreningens medlemmer.
+
 # 5. Foreningens årsmøte
+
 1. Årsmøtet er foreningens høyeste myndighet, som velger styret og gir retningslinjer for styrets arbeid.
 2. Årsmøtet er åpent for alle medlemmer, og stemmegivning kan skje elektronisk eller ved fullmakt. En organisasjon kan representeres med inntil tre stemmeberettigede medlemmer.
 3. En valgkomité på to personer velges av årsmøtet for ett år av gangen.
@@ -50,13 +54,21 @@ Foreningens navn er «QGIS Norge», ved bruk på engelsk oversatt til «QGIS Nor
 7. Årsmøtet må innkalles med minst 21 dagers varsel.
 8. Ekstraordinære årsmøter kan innkalles dersom styret ønsker det, eller en tredel av foreningens medlemmer fremsetter skriftlig krav om dette til styret.
 9. Alle årsmøter skal ha et skriftlig referat som kan gjennomgås av foreningens medlemmer.
+
 # 6. Vedtektsendringer
+
 1. Vedtektsendringer må behandles på et årsmøte, enten vanlig eller ekstraordinært. En vedtektsendring krever at endringen vedtas med minst to tredjedels flertall av stemmene.
+
 # 7. Opphør av foreningen
+
 1. Foreningens medlemmer kan beslutte å la foreningen opphøre, der vedtaket må gjøres etter de samme reglene som kreves ved en vedtektsendring.
+
 2. Ved opphøring skal alle foreningens aktiviteter opphøre og ressurser som hjemmeside, bankkonto osv. skal legges ned. Resterende økonomiske midler etter at eventuelle kreditorer har fått betalt tilbake gjeld skal doneres til det internasjonale QGIS-prosjektet (QGIS.org).
+
 # 8. Registrering i Frivillighetsregisteret
+
 1. Foreningen skal være registrert i Enhetsregisteret og Frivillighetsregisteret under aktivitetskategori «7100 – Interesseorganisasjoner» for å kunne kontrollere egne internettdomener, bankkontoer osv. Vedtekter skal registreres i Frivillighetsregisteret, og dersom tilpasninger i vedtektene må gjøres for å oppnå dette vil det avholdes ekstra årsmøte for å gjennomføre det. Videre vil ikke foreningen registrere regnskapsopplysninger i Regnskapsregisteret.
+
 # 9. Ikrafttredelse
 
 Disse vedtektene trer i kraft fra og med foreningens stiftelsesmøte, den 12/12/2016.
