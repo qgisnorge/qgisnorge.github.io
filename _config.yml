@@ -14,18 +14,26 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: QGIS Norge Brukergruppe
+title: QGIS Norge
+subtitle: Webside til den Norske QGIS Brukergruppen
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: QGIS Norge Brukergruppe
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Om oss: "omoss"
-  Resources:
+  Nyheter: "nyheter"
+  Aktiviteter: "aktiviteter"
+  Utviklingsarbeid
+  Bli med: "blimed"
+  Resurser:
     - QGIS: "http://qgis.org"
+    - OSGeo: "https://wiki.osgeo.org/wiki/Main_Page"
+    - OSGeo Nordic: "https://wiki.osgeo.org/wiki/Nordic"
+    - OSGeo Nordic (G+): "https://plus.google.com/communities/115876327717095087875"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,23 +50,23 @@ avatar: "/img/avatar-icon.png"
 author:
   name: QGIS Norge
   #email: "youremail@domain.com"
-  #facebook: yourname  # eg. daattali
+  #facebook: yourname
   github: qgisnorge
-  #twitter: yourname   # eg. daattali
-  #reddit: yourname    # eg. daattali
-  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  #linkedin: yourname  # eg. daattali
-  #xing: yourname      # eg. daattali
-  #stackoverflow: yourlink  # eg. "3943160/daattali"
-  #snapchat: yourname  # eg. daattali
-  #instagram: yourname # eg. daattali
-  #youtube: yourlink   # eg. user/daattali or channel/daattali
-  #spotify: yourname   # eg. daattali
-  #telephone: yourphone   # eg. +14159998888
+  #twitter: yourname
+  #reddit: yourname
+  #google-plus: +yourname
+  #linkedin: yourname
+  #xing: yourname
+  #stackoverflow: yourlink
+  #snapchat: yourname
+  #instagram: yourname
+  #youtube: yourlink
+  #spotify: yourname
+  #telephone: yourphone
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: false
   email: false
   twitter: false
@@ -76,14 +84,14 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "qgis.no"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
