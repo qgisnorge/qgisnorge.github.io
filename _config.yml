@@ -27,7 +27,7 @@ navbar-links:
   Om oss: "omoss"
   Nyheter: "nyheter"
   Aktiviteter: "aktiviteter"
-  Utviklingsarbeid
+  Utviklingsarbeid: "utviklingsarbeid"
   Bli med: "blimed"
   Resurser:
     - QGIS: "http://qgis.org"
