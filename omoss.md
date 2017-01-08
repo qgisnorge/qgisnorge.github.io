@@ -21,4 +21,16 @@ Protokoller fra års- og styremøter kan lastes ned her: (kommer)
 (kommer)
 
 # Historie
+
+## 2016
+
 «QGIS Norge» ble opprettet på stiftelsesmøte 12/12/2016 i Oslo.
+
+I styret ble valgt:
+
+- Marianne Vik Dysterud
+- Antonio Armas Diaz
+- Robin Oscar Bråtveit
+- Christopher H. Strutz
+- Stefan Blumentrath
+
