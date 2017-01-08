@@ -24,10 +24,10 @@ description: QGIS Norge Brukergruppe
 
 # List of links in the navigation bar
 navbar-links:
-  Om oss: "omoss"
-  Nyheter: "nyheter"
+  QGIS Norge:
+    - Om QGIS Norge: "omoss"
+    - Vedtekter: "vedtekter"
   Aktiviteter: "aktiviteter"
-  Utviklingsarbeid: "utviklingsarbeid"
   Bli med: "blimed"
   Resurser:
     - QGIS: "http://qgis.org"
