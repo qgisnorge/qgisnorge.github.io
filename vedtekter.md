@@ -5,9 +5,13 @@ subtitle: Vedtatt på stiftelsesmøte 12/12/2016
 ---
 
 # 1. Foreningens navn
+
 Foreningens navn er «QGIS Norge», ved bruk på engelsk oversatt til «QGIS Norway».
+
 # 2. Foreningens formål
+
 2.1 Foreningens formål er å spre kunnskap om og oppfordre til bruk av programvarepakken QGIS i Norge, med særlig vekt på tilpasning til norske behov. Videre vil foreningen hjelpe medlemmene med å utveksle erfaringer om bruken av QGIS og å støtte opp under det internasjonale QGIS-prosjektet. Andre open source-teknologier som kan brukes sammen med QGIS (såkalt FOSS4G) er også av interesse for foreningen.
+
 2.2 Eksempler på aktiviteter som støtter opp under dette formålet inkluderer men er ikke begrenset til:
   - Arrangering av workshops og brukermøter
   - Drift av en webside som et forum for norske QGIS-brukere
@@ -15,9 +19,13 @@ Foreningens navn er «QGIS Norge», ved bruk på engelsk oversatt til «QGIS Nor
   - Dugnader og støtte til oversettelse av QGIS til norsk
   - Dugnader og støtte til videreutvikling av QGIS-programvaren
   - Innhenting av sponsorer til å støtte opp under foreningens aktiviteter
+
 2.3 Styret står fritt til å velge hvilke aktiviteter det vil forfølge til enhver tid, såfremt de er passende med foreningens formål.
+
 2.4 Foreningen skal kunne delta i det internasjonale QGIS-prosjektets (QGIS.org) årsmøte og valg til styringskomité med et stemmegivende medlem, slik det står beskrevet i vedtektene til QGIS.org.
+
 # 3. Foreningens medlemmer
+
 1. Enhver med interesse for QGIS kan melde seg inn i foreningen. Organisasjoner kan også ta ut kollektivt medlemskap på vegne av sine ansatte. Innmeldelse forplikter medlemmet til å respektere foreningens til enhver tid gjeldende vedtekter og beslutninger tatt av årsmøtet eller styret.
 2. Medlemskap gir stemmerett i foreningens årsmøter. Årsmøtet eller styret kan også bestemme at medlemskap er nødvendig for deltagelse i bestemte aktiviteter eller for tilgang til bestemte felles ressurser. Eksempler på dette kan være men er ikke begrenset til møter/turer, ressurser på internett eller sponsormidler.
 3. Medlemmene betaler en årlig kontingent som fastsettes av årsmøtet.
