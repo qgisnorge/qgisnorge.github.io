@@ -15,3 +15,7 @@ Videre vil foreningen hjelpe medlemmene med å utveksle erfaringer
 om bruken av QGIS og å støtte opp under det internasjonale QGIS-prosjektet.
 Andre open source-teknologier som kan brukes sammen med QGIS (såkalt FOSS4G) 
 er også av interesse for foreningen.
+
+Vedtekter finner du [her] (/vedtekter). 
+
+Protokollet fra stiftelses møte kan leses og lastes ned [her] (https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/Stiftelsesmoete_QGIS_Norge.pdf)
