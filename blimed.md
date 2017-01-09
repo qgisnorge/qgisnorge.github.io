@@ -21,4 +21,3 @@ QGIS Norge på Linkedin: https://www.linkedin.com/groups/8443143
 
 QGIS Norge på facebook: https://www.facebook.com/groups/997139377003400
 
-
