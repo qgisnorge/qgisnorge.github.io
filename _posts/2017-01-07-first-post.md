@@ -1,7 +1,7 @@
 ---
 layout: post
 title: QGIS Norge opprettet!
-image: /img/qgis-icon.svg
+image: /img/qgis-nor-icon.svg
 tags: [aktiviteter, møter]
 ---
 
