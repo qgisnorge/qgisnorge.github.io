@@ -50,12 +50,12 @@ avatar: "/img/qgis-icon.svg"
 author:
   name: QGIS Norge
   #email: "youremail@domain.com"
-  #facebook: yourname
+  facebook: 997139377003400
   github: qgisnorge
   #twitter: yourname
   #reddit: yourname
   #google-plus: +yourname
-  #linkedin: yourname
+  linkedin: 8443143
   #xing: yourname
   #stackoverflow: yourlink
   #snapchat: yourname
@@ -67,13 +67,13 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: false
+  facebook: true
   email: false
   twitter: false
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
