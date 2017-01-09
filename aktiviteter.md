@@ -5,6 +5,7 @@ subtitle: Planlagte og gjennomførte aktiviteter
 ---
 
 Aktiviteter som støtter opp under formålet til QGIS Norge inkluderer men er ikke begrenset til:
+
 - Arrangering av workshops og brukermøter
 - Drift av en webside som et forum for norske QGIS-brukere
 - Deltagelse i arrangementer som handler om beslektede felt
