@@ -21,3 +21,6 @@ QGIS Norge på [Linkedin](https://www.linkedin.com/groups/8443143)
 
 QGIS Norge på [facebook](https://www.facebook.com/groups/997139377003400)
 
+# Støtt QGIS
+[![Doner til
+QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg)](http://qgis.org/en/site/getinvolved/donations.html)
