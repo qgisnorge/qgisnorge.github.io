@@ -15,7 +15,18 @@ Andre open source-teknologier som kan brukes sammen med QGIS (såkalt FOSS4G)
 er også av interesse for foreningen.
 
 # Protokoller
-Protokoller fra års- og styremøter kan lastes ned her: (kommer)
+Nedenfor kan du finne protokoller fra års- og styremøter.
+
+## Forsammlinger og årsmøter
+Dato|Titel/tema|Protokoll
+----|----------|---------
+2016/12/12|Stiftelsesmøte|Protokoll(https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/Stiftelsesmoete_QGIS_Norge.pdf)
+
+## Styremøter
+Dato|Titel/tema|Protokoll
+----|----------|---------
+2016/12/19|1.Styremøtet|Protokoll send til godkjenning
+
 
 # Kontakt
 (kommer)
@@ -24,7 +35,10 @@ Protokoller fra års- og styremøter kan lastes ned her: (kommer)
 
 ## 2016
 
-«QGIS Norge» ble opprettet på stiftelsesmøte 12/12/2016 i Oslo.
+«QGIS Norge» ble opprettet på stiftelsesmøte 12/12/2016 
+i Oslo der 31 personer deltok. Disse representere 26 organisasjoner, 
+institutsjoner og selskaper fra det offentlige, næringslivet og forskning.
+Det var også 2 privatpersoner med på møte. 
 
 I styret ble valgt:
 
@@ -34,3 +48,12 @@ I styret ble valgt:
 - Christopher H. Strutz
 - Stefan Blumentrath
 
+Ny revisor er Ina Skåra.
+
+Valgkomité er Eva Heggem og Artur Ribeiro.
+
+På det første styremøte ble Antonio Armas Diaz valgt til styreleder 
+og Marianne Vik Dysterud til nestleder. 
+
+Marianne Vik Dysterud og Christopher H. Strutz tar ansvar for 
+medlemsregisteret og fungerer som kasserer / regnskapsfører.
