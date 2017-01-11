@@ -99,7 +99,7 @@ url-pretty: "qgis.no"
 disqus: "qgisnorge-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-90162436-1"
 
 # Facebook App ID
 # fb_app_id: ""
