@@ -32,11 +32,32 @@ send en melding til @ninsbl
 # Kommunikasjon
 
 ## Mailinglister
-Det finnes ingen Norsk QGIS-bruker-epostliste enda.
-Men, hvis du ønsker å bli med på utveksling om Åpen Kildekode GIS 
-([OSGeo](https://wiki.osgeo.org/wiki/Main_Page))i de noriske 
-landene generelt kan du kan registrere deg på 
+QGIS Norge har fått en epost-liste via OSGeo Foundation. 
+For å bli med på epost-listen og diskutere saker og ting 
+omkring QGIS der, kan dere nå registrere dere selv på 
+listen ved å gå inn på:
+[QGIS Norge bruker](https://lists.osgeo.org/mailman/listinfo/qgis-no-user)
+
+Eposter som sendes til: **qgis-no-user@lists.osgeo.org** 
+går da til alle som har meld seg inn på listen. Man må 
+være registrert på listen for å kunne skrive til den. 
+Men på epost-listen kan du bli med også uten å være 
+medlem i foreningen! 
+Nederst på hver epost du får fra listen finnes det en 
+lenke for å avbestille epostene…
+
+Når du først er i gang, vurder også å registrere deg 
+på [QGIS user](https://lists.osgeo.org/mailman/listinfo/qgis-user): 
+qgis-user@lists.osgeo.org 
+for generelle spørsmål angående QGIS med et bredere publikum 
+(kommunikasjon foregår på engelsk). 
+
+Hvis du ønsker å bli med på utveksling om Åpen Kildekode GIS 
+([OSGeo](https://wiki.osgeo.org/wiki/Main_Page)) i de noriske 
+landene generelt, så kan du kan registrere deg på 
 [OSGeo Nordic](https://lists.osgeo.org/mailman/listinfo/nordic)
+Dessuten anbefales det å registrere deg på den internasjonale 
+ epostlisten.
 
 ## Sosiale medier
 
