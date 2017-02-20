@@ -14,6 +14,8 @@ om bruken av QGIS og å støtte opp under det internasjonale QGIS-prosjektet.
 Andre open source-teknologier som kan brukes sammen med QGIS (såkalt FOSS4G) 
 er også av interesse for foreningen.
 
+Organisasjonsnummer til QGIS Norge er 918462058.
+
 # Protokoller
 Nedenfor kan du finne protokoller fra års- og styremøter.
 
@@ -25,13 +27,21 @@ Dato|Titel/tema|Protokoll
 ## Styremøter
 Dato|Titel/tema|Protokoll
 ----|----------|---------
-2016/12/19|1.Styremøtet|Protokoll send til godkjenning
+2017/02/14|3.Styremøtet|Protokoll send til godkjenning
+2017/01/17|2.Styremøtet|Protokoll(https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/styremoeter/2017_01_17_QGIS_Norge_Styremoete_0002.docx)
+2016/12/19|1.Styremøtet|Protokoll(https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/styremoeter/2016_12_19_QGIS_Norge_Styremoete_0001.docx)
 
 
 # Kontakt
 (kommer)
 
 # Historie
+
+## 2017
+
+På 28.01.2017 ble QGIS Norge registrert i enhets- og 
+frivillighetsregisteret. Organisasjonsnummer er 918462058.
+Se sakspapierene [her](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/registrering/)
 
 ## 2016
 
