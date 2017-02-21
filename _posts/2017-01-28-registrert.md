@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QGIS Norge i enets- og frivillighetsregister
+title: QGIS Norge i enhets- og frivillighetsregister
 image: /img/qgis-nor-icon.svg
 tags: [aktiviteter, foreningen]
 ---
