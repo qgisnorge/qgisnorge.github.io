@@ -28,7 +28,10 @@ navbar-links:
     - Om QGIS Norge: "omoss"
     - Vedtekter: "vedtekter"
     - Brukere i Norge: "brukere"
-  Aktiviteter: "aktiviteter"
+    - Opplæring / veiledninger: "veiledning"
+  Aktiviteter:
+    - Aktiviteter generelt: "aktiviteter"
+    - Kalender: "kalender"
   Bli med: "blimed"
   Resurser:
     - QGIS: "http://qgis.org"
