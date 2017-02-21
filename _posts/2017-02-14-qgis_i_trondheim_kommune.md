@@ -11,8 +11,9 @@ satt opp en youtube-kanal der han legger ut videoer med veiledning på forskjell
 oppgaver Trondheim kommune bruker QGIS til å løse.
 
 Du kan følge youtube-kanalen på:
-https://www.youtube.com/channel/UCw4Qos7LZ7toSr-HWJsGs8Q
+
+[https://www.youtube.com/channel/UCw4Qos7LZ7toSr-HWJsGs8Q](https://www.youtube.com/channel/UCw4Qos7LZ7toSr-HWJsGs8Q)
 
 Første tema er å generere nedbørsfelt.
 
-Slike videoer samles på qgis.no/veiledning...
+Slike videoer samles i rubrikken [Opplæring / Veiledning](qgis.no/veiledning)...
