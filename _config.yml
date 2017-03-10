@@ -53,7 +53,7 @@ avatar: "/img/qgis-nor-icon.svg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: QGIS Norge
-  #email: "youremail@domain.com"
+  email: "styret@qgis.no"
   facebook: 997139377003400
   github: qgisnorge
   #twitter: yourname
@@ -72,7 +72,7 @@ author:
 footer-links-active:
   rss: true
   facebook: true
-  email: false
+  email: true
   twitter: false
   google-plus: false
   github: true
@@ -88,10 +88,10 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  google: false
-  linkedin: false
+  twitter: true
+  facebook: true
+  google: true
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
