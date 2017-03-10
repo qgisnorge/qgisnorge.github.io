@@ -33,7 +33,7 @@ Dato|Titel/tema|Protokoll
 
 
 # Kontakt
-(kommer)
+Du kan kontakte styret i QGIS Norge ved å sende epost til [styret at qgis.no](styret@qgis.no).
 
 # Historie
 
