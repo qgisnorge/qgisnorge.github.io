@@ -6,7 +6,7 @@ subtitle: Samling av veiledere fra Norske QGIS brukere
 
 # Videoer
 
-En grunnleggende oversikt over funksjonene i QGIS fra Chrstopher Strutz (Avinet) finnes her:
+En grunnleggende oversikt over funksjonene i QGIS fra Christopher Strutz (Avinet) finnes her:
 [https://www.youtube.com/watch?v=_zkxJ3a9PBw&t=17s](https://www.youtube.com/watch?v=_zkxJ3a9PBw&t=17s)
 
 Robin Bråtveit fra Trondheim kommune deler sine QGIS oppskrifter på:
