@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opplæring / Veiledning
-subtitle: Sammling av veiledere fra Norske QGIS brukere
+subtitle: Samling av veiledere fra Norske QGIS brukere
 ---
 
 # Videoer
