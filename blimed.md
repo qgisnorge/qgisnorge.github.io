@@ -24,6 +24,7 @@ For at QGIS Norge blir et lavterskel tilbud vedtok stiftelsesmøte
 - kr 0 for studentmedlemmer.
 
 Innmeldingsskjema kommer...
+Send epost til [medlemskap at qgis.no](medlemskap@qgis.no)
 
 # Utviklingsarbeid
 Har du lyst til å bidra til QGIS Norge på [github](https://github.com/qgisnorge) 
