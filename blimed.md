@@ -25,8 +25,6 @@ For at QGIS Norge blir et lavterskel tilbud vedtok stiftelsesmøte
 
 Innmeldingsskjema finnes her: [Innmeldingsskjema](https://docs.google.com/forms/d/e/1FAIpQLSeKg90NzdPodmknix-BImrydCXVELe3aA9Z-Cnm9CfA7fTkEw/viewform?usp=sf_link)
 
-Eller send epost til [medlemskap at qgis.no](medlemskap@qgis.no)
-
 # Utviklingsarbeid
 Har du lyst til å bidra til QGIS Norge på [github](https://github.com/qgisnorge) 
 send en melding til @ninsbl
