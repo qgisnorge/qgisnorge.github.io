@@ -33,7 +33,7 @@ navbar-links:
     - Aktiviteter generelt: "aktiviteter"
     - Kalender: "kalender"
   Bli med: "blimed"
-  Resurser:
+  Ressurser:
     - QGIS: "http://qgis.org"
     - OSGeo: "https://wiki.osgeo.org/wiki/Main_Page"
     - OSGeo Nordic: "https://wiki.osgeo.org/wiki/Nordic"
