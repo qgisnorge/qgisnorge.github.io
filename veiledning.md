@@ -6,6 +6,9 @@ subtitle: Samling av veiledere fra Norske QGIS brukere
 
 # Videoer
 
+Kartverket har laget et video som viser hvordan man henter data fra [GeoNorge](https://www.geonorge.no) rett inn i QGIS:
+[http://video.kartverket.no/bruke-qgis-mot-geonorge](http://video.kartverket.no/bruke-qgis-mot-geonorge)
+
 En grunnleggende oversikt over funksjonene i QGIS fra Christopher Strutz (Avinet) finnes her:
 [https://www.youtube.com/watch?v=_zkxJ3a9PBw&t=17s](https://www.youtube.com/watch?v=_zkxJ3a9PBw&t=17s)
 
