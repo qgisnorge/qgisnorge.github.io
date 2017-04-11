@@ -55,7 +55,7 @@ Det var også 2 privatpersoner med på møte.
 I styret ble valgt:
 
 - Marianne Vik Dysterud
-- Antonio Armas Diaz
+- Antonio Armas Díaz
 - Robin Oscar Bråtveit
 - Christopher H. Strutz
 - Stefan Blumentrath
