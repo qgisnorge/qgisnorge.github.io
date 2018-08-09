@@ -35,7 +35,7 @@ Nedenfor kan du finne protokoller fra års- og styremøter.
 
 
 # Kontakt
-Du kan kontakte styret i QGIS Norge ved å sende epost til [styret at qgis.no](styret@qgis.no).
+Du kan kontakte styret i QGIS Norge ved å sende epost til [styret at qgis.no](mailto:styret@qgis.no).
 
 # Historie
 
