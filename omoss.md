@@ -45,6 +45,19 @@ På 28.01.2017 ble QGIS Norge registrert i enhets- og
 frivillighetsregisteret. Organisasjonsnummer er 918462058.
 Se sakspapierene [her](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/registrering/)
 
+Årsmøte hos Statistik sentralbyrå (SSB) i Oslo den 12/12/2017
+
+I styret ble valgt:
+
+- Marianne Vik Dysterud (SSB)
+- Antonio Armas Díaz (Norkart)
+- Stig Aage Melve (Hamar Kommune) 
+- Christopher H. Strutz (Avinet)
+- Anne Alu Brøto (Nes - Buskerud Kommune)
+
+Valgkomité er Vilni Verner Holst Bloch og Erik Landsnes.
+
+
 ## 2016
 
 «QGIS Norge» ble opprettet på stiftelsesmøte 12/12/2016 
