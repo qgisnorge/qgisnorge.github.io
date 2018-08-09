@@ -12,3 +12,5 @@ Aktiviteter som støtter opp under formålet til QGIS Norge inkluderer men er ik
 - Dugnader og støtte til oversettelse av QGIS til norsk
 - Dugnader og støtte til videreutvikling av QGIS-programvaren
 - Innhenting av sponsorer til å støtte opp under foreningens aktiviteter
+
+Neste aktivitet blir QGIS Seminar hos SSB. Det blir spennende å ha en helsdag QGIS Seminar med foredragsholder som Quantarctica (Norsk Polarinstitutt), Kommuner, Fylkesmannen, NRK, privat selskap som Norkart AS, Skred AS, Norkart... agenda kommer snart!!!
