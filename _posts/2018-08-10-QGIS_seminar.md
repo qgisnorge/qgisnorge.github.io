@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QGIS Seminar
-image: /img/SSB_logo.png
 tags: [QGIS Norge, Statistisk sentralbyrå]
 ---
 
