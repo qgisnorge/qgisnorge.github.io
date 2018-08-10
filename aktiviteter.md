@@ -14,4 +14,4 @@ Aktiviteter som støtter opp under formålet til QGIS Norge inkluderer men er ik
 - Innhenting av sponsorer til å støtte opp under foreningens aktiviteter
 
 Neste aktivitet blir QGIS Seminar hos SSB den 5. desember 2018!!!!
-Det blir spennende å ha en helsdag QGIS Seminar med foredragsholder som Quantarctica (Norsk Polarinstitutt), Kommuner, Fylkesmannen, NRK, privat selskap som Norkart AS, Skred AS, Norkart... agenda kommer snart!!!
+Det blir spennende å ha en helsdag QGIS Seminar med foredragsholder som Quantarctica (Norsk Polarinstitutt), Trondheim Kommune, NRK, privat selskap som Norkart AS, Skred AS... agenda kommer snart!!!
