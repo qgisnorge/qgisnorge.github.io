@@ -15,7 +15,7 @@ Adresse: SSB i Oslo, auditoriet, Akersveien 26.
 Tid: Fra 8:30 til 15:30
 
 
-Vennligst registrer [her](https://docs.google.com/forms/d/1WetpzzqOQRUJUxBr5kp0nkyg1LZWLhA133bLRSPItfA/edit) for deltakelse.
+Beklager, påmelding er nå stengt.
 
 Vel møtt!
 
