@@ -37,7 +37,6 @@ navbar-links:
     - QGIS: "http://qgis.org"
     - OSGeo: "https://wiki.osgeo.org/wiki/Main_Page"
     - OSGeo Nordic: "https://wiki.osgeo.org/wiki/Nordic"
-    - OSGeo Nordic (G+): "https://plus.google.com/communities/115876327717095087875"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
