@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aktivieter i QGIS Norge vår 2021
+title: Aktiviteter i QGIS Norge 2021
 tags: [2021,årsmøte]
 ---
 
