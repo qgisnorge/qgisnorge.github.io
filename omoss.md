@@ -27,6 +27,7 @@ Nedenfor kan du finne protokoller fra års- og styremøter.
 |2017/12/12|Agenda Årsmøtet 2017|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/Agenda_Aarsmoete_QGIS_Norge_2017.pdf)|
 |2017/12/12|Referat Årsmøtet 2017|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/Referat_Aarsmøte_QGIS_Norge_2017.pdf)|
 |2018/12/05|Referat Årsmøtet 2018|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/Referat_QGIS_Norge_aarsmoete_2018.pdf)|
+|2021/03/25|Referat Årsmøtet 2021|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/QGIS_aarsmøte_20210325.pdf)|
 
 ## Styremøter
 
@@ -41,6 +42,20 @@ Nedenfor kan du finne protokoller fra års- og styremøter.
 Du kan kontakte styret i QGIS Norge ved å sende epost til [styret at qgis.no](mailto:styret@qgis.no).
 
 # Historie
+
+## 2021
+
+Digitalt årsmøte på Teams den 25.03.2021
+
+I styret ble valgt:
+
+- James Stott: leder (Statsforvalteren i Rogaland)
+- Antonio Armas Díaz (Norkart)
+- Thijs Christiaan van Son (Naturhistorisk museum)
+- Jan Ingolf Kleppe (Troms og Finnmark fylkeskommune)
+- Morten Sickel (NORSAR)
+
+I valgkomité ble valgt Kenneth Øyen-Eriksen (Norkart) og Martine Vad Almankaas (Kystverket). Bendik Øverhus Hassel ble valgt som varamedlem.
 
 ## 2018
 
