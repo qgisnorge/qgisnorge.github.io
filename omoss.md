@@ -27,7 +27,7 @@ Nedenfor kan du finne protokoller fra års- og styremøter.
 |2017/12/12|Agenda Årsmøtet 2017|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/Agenda_Aarsmoete_QGIS_Norge_2017.pdf)|
 |2017/12/12|Referat Årsmøtet 2017|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/Referat_Aarsmøte_QGIS_Norge_2017.pdf)|
 |2018/12/05|Referat Årsmøtet 2018|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/Referat_QGIS_Norge_aarsmoete_2018.pdf)|
-|2021/03/25|Referat Årsmøtet 2021|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/QGIS_aarsmøte_20210325.pdf)|
+|2021/03/25|Referat Årsmøtet 2021|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/aarsmoeter/QGIS_aarsmoete_20210325.pdf)|
 
 ## Styremøter
 
