@@ -33,6 +33,7 @@ Nedenfor kan du finne protokoller fra års- og styremøter.
 
 |Dato|Titel/tema|Protokoll|
 |----|----------|---------|
+|2021/04/15|Styremøtet|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/styremoeter/2021_04_15_QGIS_Norge_Styremoete.pdf)|
 |2017/02/14|3.Styremøtet|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/styremoeter/2017_02_14_QGIS_Norge_Styremoete_0003.docx)|
 |2017/01/17|2.Styremøtet|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/styremoeter/2017_01_17_QGIS_Norge_Styremoete_0002.docx)|
 |2016/12/19|1.Styremøtet|[Protokoll](https://github.com/qgisnorge/qgisnorge.github.io/blob/master/dokumenter/styremoeter/2016_12_19_QGIS_Norge_Styremoete_0001.docx)|
