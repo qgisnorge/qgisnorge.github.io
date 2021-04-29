@@ -15,3 +15,7 @@ Viktige datoer:
 - Publisering av agenda: 20. mai
 - Innsending av foredrag: 25.mai
 - Webinar: 28. mai
+
+Samlingen begynner kl. 10, men det er mulig å logge seg inn fra kl. 9. 
+
+[Påmelding](https://attendee.gotowebinar.com/register/4797848044856213006)
