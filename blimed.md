@@ -19,8 +19,8 @@ for deltagelse i bestemte aktiviteter eller for tilgang til felles ressurser.
 For at QGIS Norge blir et lavterskel tilbud vedtok stiftelsesmøte 
 **medlemsavgift** på:
 
-- kr 1000 for organisasjoner,
-- kr 200 for personlige medlemmer og 
+- kr 2000 for organisasjoner,
+- kr 250 for personlige medlemmer og 
 - kr 0 for studentmedlemmer.
 
 Innmeldingsskjema finnes her: [Innmeldingsskjema](https://docs.google.com/forms/d/e/1FAIpQLSeKg90NzdPodmknix-BImrydCXVELe3aA9Z-Cnm9CfA7fTkEw/viewform?usp=sf_link)
